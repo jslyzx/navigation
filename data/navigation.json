@@ -1,0 +1,358 @@
+{
+  "categories": [
+    {
+      "id": "category-1",
+      "name": "常用推荐",
+      "sites": [
+        {
+          "name": "Cloudflare👍",
+          "url": "https://www.cloudflare.com/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.png?auto=format",
+          "description": "人称赛博佛祖，免费 CDN、WAF、SSL、DDoS 防护等多种功能，可为网站提供优化加速和安全防护。"
+        },
+        {
+          "name": "Vercel👍",
+          "url": "https://vercel.com/",
+          "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/apple-touch-icon-57x57.png",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。"
+        },
+        {
+          "name": "Google 云端硬盘",
+          "url": "https://drive.google.com/",
+          "icon": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png",
+          "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。"
+        }
+      ]
+    },
+    {
+      "id": "category-2",
+      "name": "AI Chat",
+      "sites": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com/",
+          "icon": "https://chatgpt.com/cdn/assets/favicon-eex17e9e.ico",
+          "description": "[OpenAI]A conversational AI system that listens, learns, and challenges"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "icon": "https://claude.ai/favicon.ico",
+          "description": "[Anthropic] Talk with Claude, an AI assistant from Anthropic"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png",
+          "description": "[Google]生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。"
+        },
+        {
+          "name": "perplexity",
+          "url": "https://www.perplexity.ai/",
+          "icon": "https://ih1.redbubble.net/image.5663163473.1331/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+          "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。"
+        },
+        {
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "icon": "https://grok.com/images/favicon-light.png",
+          "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more."
+        },
+        {
+          "name": "v0 by Vercel",
+          "url": "https://v0.app/",
+          "icon": "https://v0.app/assets/icon-light-32x32.png",
+          "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web."
+        },
+        {
+          "name": "DeepSeek - 探索未至之境",
+          "url": "https://chat.deepseek.com/",
+          "icon": "https://chat.deepseek.com/favicon.svg",
+          "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。"
+        },
+        {
+          "name": "Poe",
+          "url": "https://poe.com/",
+          "icon": "https://psc2.cf2.poecdn.net/assets/apple-touch-icon.png",
+          "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。"
+        }
+      ]
+    },
+    {
+      "id": "category-3",
+      "name": "AI Coding",
+      "sites": [
+        {
+          "name": "Codex | OpenAI",
+          "url": "https://openai.com/zh-Hans-CN/codex/",
+          "icon": "https://openai.com/favicon.ico",
+          "description": "Codex 是 OpenAI 推出的一系列人工智能编码工具，通过将任务委托给强大的云端和本地编码代理，帮助开发人员提升工作效率。"
+        },
+        {
+          "name": "Claude code",
+          "url": "https://www.anthropic.com/claude-code",
+          "icon": "https://claude.ai/favicon.ico",
+          "description": "Claude 是由 Anthropic 公司开发的 AI 助手，以其乐于助人、无害且真诚的对话能力而闻名。提供免费版本。"
+        },
+        {
+          "name": "Google Antigravity",
+          "url": "https://antigravity.google/",
+          "icon": "https://antigravity.google/assets/image/antigravity-logo.png",
+          "description": "Experience liftoff with the next-generation IDE"
+        },
+        {
+          "name": "Gemini CLI",
+          "url": "https://geminicli.com/",
+          "icon": "https://geminicli.com/icon.png",
+          "description": "Query and edit large codebases, generate apps from images or PDFs, and automate complex workflows—all from your terminal with Gemini 3."
+        },
+        {
+          "name": "MiniMax M2 & Agent: Ingenious in Simplicity",
+          "url": "https://www.minimaxi.com/news/minimax-m2",
+          "icon": "https://filecdn.minimax.chat/public/25289820-59cd-4365-9829-a3f32b365451.ico",
+          "description": "一款紧凑、快速且性价比超强的模型，专为Coding和Agent而生"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://www.cursor.com/",
+          "icon": "https://cursor.com/marketing-static/favicon.ico",
+          "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI."
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg",
+          "description": "The AI editor for everyone"
+        }
+      ]
+    },
+    {
+      "id": "category-4",
+      "name": "MCP Server",
+      "sites": [
+        {
+          "name": "MCP Server 集合站",
+          "url": "https://smithery.ai/",
+          "icon": "https://smithery.ai/icon.svg?icon.2e4c651c.svg",
+          "description": "各种各样的 MCP Server"
+        },
+        {
+          "name": "MCP.so",
+          "url": "https://mcp.so/",
+          "icon": "https://mcp.so/favicon.ico",
+          "description": "各种各样的 MCP Server"
+        },
+        {
+          "name": "yzfly/Awesome-MCP-ZH",
+          "url": "https://github.com/yzfly/Awesome-MCP-ZH/",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg",
+          "description": "MCP 资源精选，MCP指南，Claude MCP，MCP Servers，MCP Clients"
+        }
+      ]
+    },
+    {
+      "id": "category-5",
+      "name": "域名",
+      "sites": [
+        {
+          "name": "namecheap",
+          "url": "https://www.namecheap.com/",
+          "icon": "https://www.namecheap.com/assets/img/nc-icon/favicon.ico",
+          "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands."
+        },
+        {
+          "name": "NameSilo",
+          "url": "https://www.namesilo.com/",
+          "icon": "https://www.namesilo.com/static/assets/img/logo.png",
+          "description": "提供互联网上最低的日常域名价格"
+        },
+        {
+          "name": "ClouDNS",
+          "url": "https://www.cloudns.net/",
+          "icon": "https://www.cloudns.net/images/web/favicon.gif",
+          "description": "提供免费域名"
+        },
+        {
+          "name": "Dynadot",
+          "url": "http://www.dynadot.com/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/730a836cae71cfce98c16911bc003b46d8ec83cb-180x180.png?auto=format",
+          "description": "购买域名送域名邮箱，还可免费制作网站 Logo，非常贴心。"
+        },
+        {
+          "name": "NameBeta",
+          "url": "https://namebeta.com/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/2998c7a3456d62c027c60ea1bb95fdd934ac84bf-192x192.png?auto=format",
+          "description": "清晰对比不同域名商价格，帮你省钱。"
+        },
+        {
+          "name": "Lean Domain Search",
+          "url": "https://leandomainsearch.com/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/b3a4194de501ba020a2a520474bcc29920d88d7c-192x192.webp?auto=format",
+          "description": "域名被占用时使用，可根据关键词快速生成相关域名。"
+        },
+        {
+          "name": "who.is",
+          "url": "https://who.is/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/0ef8dfd62f1d2a3b0d6ebf0d564f01444f337893-175x72.svg",
+          "description": "查询域名注册信息。"
+        }
+      ]
+    },
+    {
+      "id": "category-6",
+      "name": "网站托管",
+      "sites": [
+        {
+          "name": "Cloudflare👍",
+          "url": "https://www.cloudflare.com/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.png?auto=format",
+          "description": "人称赛博佛祖，免费 CDN、WAF、SSL、DDoS 防护等多种功能，可为网站提供优化加速和安全防护。"
+        },
+        {
+          "name": "Vercel👍",
+          "url": "https://vercel.com/",
+          "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/apple-touch-icon-57x57.png",
+          "description": "赛博菩萨，慷慨免费额度，一站式 Next.js 部署平台。"
+        },
+        {
+          "name": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
+          "url": "https://edgeone.ai/zh",
+          "icon": "https://edgeone.ai/favicon.ico",
+          "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。"
+        },
+        {
+          "name": "AlibabaCloud",
+          "url": "https://www.aliyun.com/",
+          "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+          "description": "完整的产品体系，为企业打造技术创新的云"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://supabase.com/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/ebcb3724d33afbcbe3086b5484de4923fd40c6a5-96x96.png?auto=format",
+          "description": "PostgreSQL 云数据库，慷慨免费额度，集成实时数据订阅、身份验证、文件存储等功能。"
+        }
+      ]
+    },
+    {
+      "id": "category-7",
+      "name": "代码托管",
+      "sites": [
+        {
+          "name": "Github",
+          "url": "https://github.com",
+          "icon": "https://github.com/fluidicon.png",
+          "description": "一个面向开源及私有软件项目的托管平台"
+        },
+        {
+          "name": "Gitlab",
+          "url": "https://gitlab.com/",
+          "icon": "https://about.gitlab.com/images/ico/favicon.ico",
+          "description": "更快地交付安全代码，部署到任何云，并推动业务成果"
+        },
+        {
+          "name": "Bitbucket | Git solution for teams using Jira",
+          "url": "https://bitbucket.org/",
+          "icon": "https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-16x16.png",
+          "description": "Code and CI/CD, powered by AI and the Atlassian platform"
+        }
+      ]
+    },
+    {
+      "id": "category-8",
+      "name": "效率",
+      "sites": [
+        {
+          "name": "沉浸式翻译",
+          "url": "https://immersivetranslate.com/zh-Hans/",
+          "icon": "https://cdn.sanity.io/images/ntncowsx/production/87b99da372013e95152041f7e47d9457a6e4e65b-128x128.png?auto=format",
+          "description": "网页、PDF 文档、电子书以及视频字幕，双语翻译，体验极佳！"
+        }
+      ]
+    },
+    {
+      "id": "category-9",
+      "name": "工具网站",
+      "sites": [
+        {
+          "name": "TongLeMa (通了吗)",
+          "url": "https://tonglema.com/",
+          "icon": "https://tonglema.com/favicon/favicon.ico",
+          "description": "TongLeMa (通了吗) 是一个开源的网络连通性检测仪表板，帮助用户快速实时检测多个热门全球服务的延迟和连通状态。"
+        }
+      ]
+    },
+    {
+      "id": "category-10",
+      "name": "知识库",
+      "sites": [
+        {
+          "name": "Free for Developers",
+          "url": "https://free-for.dev/#/",
+          "icon": "https://free-for.dev/logo.webp",
+          "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions."
+        },
+        {
+          "name": "开发者的 Web3 开源大学",
+          "url": "https://www.wtf.academy/zh",
+          "icon": "https://www.wtf.academy/favicon.ico",
+          "description": "WTF Academy 是一个 Web3 开源大学，旨在培训 100,000 名开发者。我们提供高质量的课程和动手项目，帮助您学习、贡献并获得认证。无论您是初学者还是经验丰富的开发者，WTF Academy 为您提供 Web3 世界中必不可少的技能。"
+        },
+        {
+          "name": "简明 Vim 练级攻略",
+          "url": "https://coolshell.cn/articles/5426.html",
+          "icon": "https://www.vim.org/images/vimlogo.svg",
+          "description": "翻译自《Learn Vim Progressively》，这是给新手最好的VIM练级教程了，没有列举所有的命令，只是列举了那些最有用的命令。非常不错。"
+        }
+      ]
+    },
+    {
+      "id": "category-11",
+      "name": "社区",
+      "sites": [
+        {
+          "name": "Reddit👍",
+          "url": "https://www.reddit.com/",
+          "icon": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。"
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+          "description": "全球最大的技术问答网站"
+        },
+        {
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "icon": "https://www.v2ex.com/static/icon-192.png",
+          "description": "一个关于分享和探索的地方"
+        }
+      ]
+    },
+    {
+      "id": "category-12",
+      "name": "其他导航",
+      "sites": [
+        {
+          "name": "Indie Hacker Tools",
+          "url": "https://indiehackertools.net/",
+          "icon": "https://indiehackertools.net/favicon-32x32.png",
+          "description": "分享各种出海工具，让每个独立开发者都能开心赚美元！"
+        },
+        {
+          "name": "中国区 GitHub 用户排行榜",
+          "url": "https://china-ranking.32k.site/",
+          "icon": "https://china-ranking.32k.site/favicon.ico",
+          "description": "按照 Followers 数量排序，展示中国优秀个人开发者"
+        },
+        {
+          "name": "中文独立博客列表",
+          "url": "https://github.com/timqian/chinese-independent-blogs/",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg",
+          "description": "中文独立博客列表，中文圈著名的博客基本都在里面了。"
+        }
+      ]
+    }
+  ]
+}
