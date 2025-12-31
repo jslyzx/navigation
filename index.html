@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>导航站 - jslyzx</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 左侧分类菜单 -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h1 class="logo">📑 导航站</h1>
+            </div>
+            <nav class="category-nav" id="categoryNav">
+                <!-- 分类列表将通过 JS 动态生成 -->
+            </nav>
+        </aside>
+
+        <!-- 右侧主内容区 -->
+        <main class="main-content">
+            <header class="header">
+                <button class="menu-toggle" id="menuToggle" aria-label="切换菜单">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <div class="current-category" id="currentCategory">
+                    <!-- 当前分类名称 -->
+                </div>
+                <div class="header-actions">
+                    <input type="search" class="search-box" id="searchBox" placeholder="搜索网站...">
+                </div>
+            </header>
+
+            <div class="content-wrapper">
+                <section class="sites-grid" id="sitesGrid">
+                    <!-- 网站卡片将通过 JS 动态生成 -->
+                </section>
+                <div class="no-results" id="noResults" style="display: none;">
+                    <p>没有找到相关网站</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
